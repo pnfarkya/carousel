@@ -63,6 +63,11 @@ Redux :
   Store: object tree for entire apps
   View: displays data provided by store
 
+React Fiber:
+    Update in diffy algo:
+    instead of checking the all rendered compomenet diff which can have  cpu performence issues its check the diff on each small part of the component 
+    with unblocking UI ops. its singnify improves the rendering perfomemnce.
+
 
 
 
