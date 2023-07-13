@@ -69,6 +69,10 @@ React Fiber:
     with unblocking UI ops. its singnify improves the rendering perfomemnce.
 
 
+Context API :
+    Use for passing data b/w compoenets 
+    usees Producer and Consumer : producer to set value and consumer to comsume value
+    you can access context using static contextType = MyContext and than this.context to get the value
 
 
 
