@@ -1,0 +1,9 @@
+Collections in .Net
+  System.Array , 
+  System.Collections : ArrayList, BitArray, Hashtable, Queue , Stack, 
+  System.Collections.Generic : List , Dictionary , Obdervable, Hashset , Stack , Queue, Array, LinkedList, SortedList...
+  System.Collections.Concurrent : ConncurrentList , ConDict, ConQue, ConSt , ConBag, Partioner
+  System.Collections.Immutable : Collections can not be changed once created : ImmutableArray, ImmDic, ImmList...
+  
+  
+  
